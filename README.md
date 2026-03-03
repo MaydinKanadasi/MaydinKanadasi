@@ -1,16 +1,23 @@
-## Hi there 👋
+# M. Aydın KANADASİ
 
-<!--
-**MaydinKanadasi/MaydinKanadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on product-oriented software development.
 
-Here are some ideas to get you started:
+Currently building web-based applications to strengthen my understanding of core programming concepts, state management, and scalable system design, while gradually expanding into the Apple ecosystem and iOS development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- JavaScript fundamentals  
+- Frontend architecture  
+- Clean code practices  
+- Exploring iOS development (Swift & Apple ecosystem)
+
+## Selected Projects
+
+### Invoice Receipt Generator  
+Web-based invoice receipt generator built with HTML, CSS and JavaScript.
+
+### Uiy Uiy Toe  
+JavaScript-based Tic Tac Toe game implementing core game logic and DOM manipulation.
+
+## Goal
+To build production-ready applications across web and Apple platforms with strong logic, structure, and long-term maintainability.
