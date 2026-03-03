@@ -9,7 +9,7 @@ Currently building web-based applications to strengthen my understanding of core
 - JavaScript fundamentals  
 - Frontend architecture  
 - Clean code practices  
-- Exploring iOS development (Swift & Apple ecosystem)
+- Transitioning toward iOS development (Swift & Apple ecosystem)
 
 ## Selected Projects
 
