@@ -29,4 +29,4 @@ JavaScript-based Tic Tac Toe game implementing core game logic and DOM manipulat
 
 ## Goal
 
-To build **scalable, production-ready applications** that combine **software, embedded systems, and product-oriented thinking**.
+To build scalable, production-ready applications that combine software engineering, embedded systems, and product-oriented thinking.
