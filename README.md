@@ -1,23 +1,32 @@
-# M. Aydın KANADASİ
+# M. Aydın Kanadası
 
-Computer Engineering student focused on product-oriented software development.
+Computer Engineering student interested in building real-world products across software and embedded systems.
+I enjoy developing practical solutions that combine **software, hardware, and user-focused product design**.
 
-Currently building web-based applications to strengthen my understanding of core programming concepts, state management, and scalable system design, while gradually expanding into the Apple ecosystem and iOS development.
+Currently exploring **IoT systems, embedded development with ESP32, and web technologies**, while gradually expanding into the **Apple ecosystem and iOS development**.
 
 ## Current Focus
 
-- JavaScript fundamentals  
-- Frontend architecture  
-- Clean code practices  
-- Transitioning toward iOS development (Swift & Apple ecosystem)
+* Software engineering fundamentals
+* Embedded systems & IoT projects (ESP32)
+* Web application development
+* Clean architecture and maintainable code
+* Exploring Swift and the Apple ecosystem
 
 ## Selected Projects
 
-### Invoice Receipt Generator  
-Web-based invoice receipt generator built with HTML, CSS and JavaScript.
+### ESP32 QR Menu Display
 
-### Uiy Uiy Toe  
+Prototype of a restaurant table display device using **ESP32 and a TFT screen** that shows a QR code for accessing a digital menu.
+
+### Invoice Receipt Generator
+
+Web-based invoice generator built with **HTML, CSS, and JavaScript**.
+
+### Uıy Uıy Toe
+
 JavaScript-based Tic Tac Toe game implementing core game logic and DOM manipulation.
 
 ## Goal
-To build production-ready applications across web and Apple platforms with strong logic, structure, and long-term maintainability.
+
+To build **scalable, production-ready applications** that combine **software, embedded systems, and product-oriented thinking**.
